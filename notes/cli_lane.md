@@ -5,19 +5,18 @@ Fill during prework or the Slot 1 pause (Thu 10:35–10:45).
 ## Command run
 
 ```text
-# paste the exact command, e.g. claude --version
-# Cursor: agent --version, cursor-agent --version, or cursor --version
+claude --version
 ```
 
 ## Result
 
-- Exit / version string:
-- Working directory:
-- Tool: Claude Code / Codex / Cursor / other
+- Exit / version string: exit 0, `2.1.330 (Claude Code)`
+- Working directory: repository root (`ac4e-eief-workshop/`)
+- Tool: Claude Code (desktop app, Code tab; CLI also installed)
 
 ## Blocker (if any)
 
-What failed and what you will try next. Do not paste secrets.
+None. `scripts/validate_setup.py` passed; 45 tests passed.
 
 ## Link forward
 
