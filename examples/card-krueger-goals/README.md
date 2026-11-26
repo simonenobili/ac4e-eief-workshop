@@ -31,3 +31,5 @@ Check the current command names in your installed version:
 
 Every brief uses the synthetic data in `examples/card-krueger-toy/`. Use them to
 practise directing an agent, not to replicate Card and Krueger (1994).
+
+Ciao
